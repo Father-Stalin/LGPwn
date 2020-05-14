@@ -7,7 +7,7 @@ A small but mighty exploit kit for LG Smart TV's of the specified WebOS version.
 + Cross-Site Request Forgery
 
 Research Team:
-+ jscaglione1@butlercc.edu
++ jscaglione1 [at] butlercc.edu
 + https://github.com/notastromoose
 + https://github.com/Father-Stalin
 
